@@ -83,7 +83,7 @@ The coefficients on sentiment features are puzzling and would deserve follow up 
 
 ## Use Case
 
-Lastly, I built an interactive visualization tool meant to assist in narrowing down the retention intervention pool of employees to ones that are theoretically difficult to replace (high performers, high level, critical job roles). In the tool you can see the leave probabilities produced by the model to look at employees more likely to leave. The tooltip then shows you values for the individual that correspond to rentetion levels our model suggested might lower attrition risk (overtime hours, pay, stock options, travel, commute). Below is a screenshot, but I was able to retain the interactivity in the html version of [my notebook]() (scroll to bottom).
+Lastly, I built an interactive visualization tool meant to assist in narrowing down the retention intervention pool of employees to ones that are theoretically difficult to replace (high performers, high level, critical job roles). In the tool you can see the leave probabilities produced by the model to look at employees more likely to leave. The tooltip then shows you values for the individual that correspond to rentetion levels our model suggested might lower attrition risk (overtime hours, pay, stock options, travel, commute). Below is a screenshot, but I was able to retain the interactivity in the html version of [my notebook](https://github.com/christianclayton7/ibm-attrition-prediction/tree/main/attrition-prediction.html) (scroll to bottom).
 
 <img width="1044" alt="tool screenshot" src="https://github.com/user-attachments/assets/2ad783ce-566e-4f12-a739-5e814e11111e">
 
