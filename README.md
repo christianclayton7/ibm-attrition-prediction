@@ -29,6 +29,6 @@ I analyzed how numeric features were distributed differently for leavers vs stay
 - traveled more for work
 - worked more overtime
 
-[experience]: https://github.com/christianclayton7/ibm-attrition-prediction/tree/main/images%20for%20summary/experience.png "Experience"
+![exper](images for summary/experience.png)
 
 
